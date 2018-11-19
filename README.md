@@ -1,1 +1,1 @@
-# Encript
+# Encrypt
